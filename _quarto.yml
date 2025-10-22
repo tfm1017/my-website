@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: spacelab
     toc: true
 
 editor: source
